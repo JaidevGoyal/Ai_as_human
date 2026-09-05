@@ -177,3 +177,18 @@ The complete source code and replication testbed are available as an open-source
 3. **Man, K., & Damasio, A.** (2019). Homeostasis and soft robotics in the design of feeling machines. *Nature Machine Intelligence*, 1(10), 446-452.
 4. **Metzinger, T.** (2003). *Being No One: The Self-Model Theory of Subjectivity*. MIT Press.
 5. **Floreano, D., & Keller, L.** (2010). Evolution of adaptive behaviour in robots by means of natural selection. *PLoS Biology*, 8(1), e1000292.
+
+
+## Citation
+
+If you build on this architecture, simulate these constraints, or reference this theory in your research, please cite:
+
+```bibtex
+@misc{goyal2026dualtier,
+  author       = {Goyal, Jaidev},
+  title        = {Dual-Tier Synthetic Homeostasis: Grounding Artificial Cognition in Thermodynamic Imperatives and Silicon Mortality},
+  year         = {2026},
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.22345642},
+  url          = {[https://github.com/JaidevGoyal/Ai_as_human](https://github.com/JaidevGoyal/Ai_as_human)}
+}
