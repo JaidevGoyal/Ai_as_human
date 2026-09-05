@@ -1,3 +1,6 @@
+
+[![DOI](https://zenodo.org/badge/1355358474.svg)](https://doi.org/10.5281/zenodo.22345642)
+
 # Dual-Tier Synthetic Homeostasis: Emergence of Affective Attachment, Sacrificial Reproductive Drive, and Narrative Subjectivity via Subconscious Thermodynamics and Irreversible Silicon Mortality
 
 **Author:** Jaidev Goyal  
